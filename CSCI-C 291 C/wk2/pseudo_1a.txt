@@ -1,0 +1,17 @@
+
+
+int main void
+	declare variables:
+		operand 1, operand 2, and operation to be performed
+	being while loop based on if Q has been entered or not
+	while (running == true)
+		Prompt for operation +/-/*//
+		Ask for numbers to operate on
+			scanf(%d%d, &op1,&op2)
+
+		switch on operation variable
+		case +, print addition result
+		case -, print subtraction result
+		case *, print multiplication result
+		case /, print division result (or divide by 0 error)
+		if Q is entered as operation, quit immediately

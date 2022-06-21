@@ -1,0 +1,12 @@
+What is the difference between pressing and clicking a key in Java?
+
+    Pressing a key is the input of a button on the keyboard, but typing is 
+    the input of a specific character on the keyboard. If I want to do something
+    when any key is pressed, I can use keyPressed or keyReleased, but if I want to
+    do something specific for that letter, I need to use keyTyped.
+
+How could an implementation of the KeyListener interface be used to handle
+multiple characters entered in a row rather than just one character at a time?
+
+    keyTyped could add to a string until a delimiter is entered, like a 
+    comma or semicolon.

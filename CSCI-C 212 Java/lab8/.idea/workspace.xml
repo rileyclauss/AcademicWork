@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5a18d25-dfa6-499d-a87d-436696611ce2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab6Old/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/src/main/java/rclauss/c212/lab6Old/Athlete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/src/main/java/rclauss/c212/lab6Old/BasketballAthlete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/src/main/java/rclauss/c212/lab6Old/HockeyAthlete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/src/main/java/rclauss/c212/lab6Old/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/src/main/java/rclauss/c212/lab6Old/Problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/src/main/java/rclauss/c212/lab6Old/SoccerAthlete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6Old/src/test/java/rclauss/c212/lab6/Problem1Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21hB5hymvpgWfiZ7u01eB8rES9o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FinalProject" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5a18d25-dfa6-499d-a87d-436696611ce2" name="Changes" comment="" />
+      <created>1638383261374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638383261374</updated>
+    </task>
+    <servers />
+  </component>
+</project>

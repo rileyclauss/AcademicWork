@@ -1,0 +1,14 @@
+What is the difference between pressing and clicking a mouse in Java?
+
+Pressing a mouse is pushing down the button/lever to register contact within the mouse.
+It is possible to press a mouse, hold it, drag it around, and then release it. However,
+clicking is the act of pressing in and releasing the mouse as near simultaneously as 
+possible.
+
+How does the use of interfaces help with interchangeability of classes? For
+example, what if we wanted to have a different implementation of MouseListener
+in the future?
+
+Implementations help create modular objects, so that the same behavior can
+produce different results, I could replace MyMouseListener with YourMouseListener,
+and since they both implement the same MouseListener, they are interchangeable.
